@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes project for Odin Project
+A _simple_ **recipe** project for **Odin Project**.
